@@ -1,6 +1,6 @@
 
-SRC := src/icons.html
-DST := dist/icons.html
+SRC := src/index.html
+DST := dist/index.html
 
 all: $(DST)
 
