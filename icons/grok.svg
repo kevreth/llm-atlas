@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1041.6488 1000"
+   fill="none"
+   class="opacity-80 hover:opacity-100 fill-black dark:fill-white [&amp;&gt;path]:hidden sm:[&amp;&gt;path]:block [&amp;&gt;#mark]:block [&amp;&gt;#furigana]:opacity-60"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="grok1.svg"
+   width="1041.6488"
+   height="1000"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="547.30065"
+     inkscape:cy="475.88286"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <path
+     d="M 402.29563,641.89688 748.5925,385.95625 c 16.97813,-12.54687 41.24375,-7.65312 49.33438,11.8375 C 840.50188,500.57812 821.48,624.1 736.77063,708.90938 652.06438,793.71563 534.20188,812.31562 426.47375,769.95625 l -117.68437,54.55313 c 168.79375,115.50937 373.7625,86.94375 501.84687,-41.38126 101.59688,-101.71874 133.0625,-240.36875 103.64063,-365.4 l 0.26562,0.26563 C 871.87688,234.31531 925.03313,160.89719 1033.9175,10.768 1036.4925,7.20834 1039.0706,3.64866 1041.6488,0 L 898.36438,143.45469 v -0.445 L 402.20813,641.9875"
+     fill="currentColor"
+     id="mark"
+     style="stroke-width:31.25" />
+  <path
+     d="M 330.83313,704.10313 C 209.68094,588.23438 230.56907,408.91562 333.9425,305.50938 c 76.44063,-76.53375 201.68126,-107.76969 311.00938,-61.85 l 117.41875,-54.285 C 741.2175,174.06781 714.105,157.60438 682.99563,146.03531 542.38001,88.10188 374.03,116.935 259.72344,231.28938 149.77219,341.37188 115.19563,510.63437 174.57125,655.06875 218.925,763.01563 146.21657,839.36875 72.97501,916.4375 47.02032,943.75625 20.97688,971.07813 0,1000 L 330.7425,704.19063"
+     fill="currentColor"
+     id="path5"
+     style="stroke-width:31.25" />
+</svg>
