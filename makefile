@@ -5,7 +5,7 @@ DST := dist/index.html
 all: $(DST)
 
 $(DST): $(SRC) icons/*
-	mkdir dist/
+	mkdir -p dist/
 	node inline_svg.js $(SRC) $(DST)
 
 clean:
