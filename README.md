@@ -4,6 +4,6 @@
 
 A simple bookmark page to the most useful consumer LLMs.
 
-Accssible at
+Accessible at
 
 https://kevreth.github.io/llm-atlas/
